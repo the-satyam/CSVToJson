@@ -1,0 +1,9 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender
+Aryan,Sharma,17,"12A MG Road","Near City Park",Jaipur,Rajasthan,male
+Sneha,Verma,15,"403 Sector 21",Dwarka,"New Delhi",Delhi,female
+Rohit,Patil,28,"Flat 8, Sai Residency",Baner,Pune,Maharashtra,male
+Pooja,Iyer,33,"No. 45, Lake View Apartments",Velachery,Chennai,"Tamil Nadu",female
+Sanjay,Reddy,52,"H.No. 6-3-456","Banjara Hills",Hyderabad,Telangana,male
+Anita,Das,46,"Plot 123, Sector 9","Salt Lake",Kolkata,"West Bengal",female
+Vijay,Nair,68,"17/4 Gandhi Road","Civil Lines",Bhopal,"Madhya Pradesh",male
+Kamala,Joshi,73,"B-56 Shastri Nagar","",Lucknow,"Uttar Pradesh",female
